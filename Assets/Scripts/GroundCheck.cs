@@ -8,6 +8,7 @@ public class GroundCheck : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        // Joppa wuz 'ere.
         isGrounded = true;
     }
 
